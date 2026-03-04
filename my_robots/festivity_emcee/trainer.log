@@ -1,0 +1,16 @@
+festivity_emcee v0 0 games, 0 moves, e=1.000, loss: nan,  , 50.0% elo% vs. , avg. reward: nan, nan sec/game, 0.0 min. total, 304.0 MB
+festivity_emcee v1 1 games, 764 moves, e=0.999, loss: nan, -, 47.7% elo% vs. random_bot, avg. reward: -0.071, 0.237 sec/game, 0.0 min. total, 313.7 MB
+festivity_emcee v1 2 games, 1456 moves, e=0.999, loss: nan, ., 47.8% elo% vs. random_bot, avg. reward: -0.053, 0.220 sec/game, 0.0 min. total, 317.3 MB
+festivity_emcee v1 3 games, 2102 moves, e=0.998, loss: nan, -, 45.6% elo% vs. random_bot, avg. reward: -0.041, 0.212 sec/game, 0.0 min. total, 319.2 MB
+festivity_emcee v1 4 games, 2743 moves, e=0.997, loss: nan, -, 43.5% elo% vs. random_bot, avg. reward: -0.043, 0.211 sec/game, 0.0 min. total, 321.3 MB
+festivity_emcee v1 5 games, 3452 moves, e=0.997, loss: nan, -, 41.6% elo% vs. random_bot, avg. reward: -0.045, 0.210 sec/game, 0.0 min. total, 324.0 MB
+festivity_emcee v1 6 games, 4082 moves, e=0.996, loss: nan, ., 42.0% elo% vs. random_bot, avg. reward: -0.051, 0.207 sec/game, 0.0 min. total, 327.0 MB
+festivity_emcee v1 7 games, 4784 moves, e=0.995, loss: nan, -, 40.1% elo% vs. random_bot, avg. reward: -0.053, 0.206 sec/game, 0.0 min. total, 329.4 MB
+festivity_emcee v1 8 games, 5570 moves, e=0.994, loss: nan, ., 40.5% elo% vs. random_bot, avg. reward: -0.055, 0.209 sec/game, 0.0 min. total, 331.8 MB
+festivity_emcee v1 9 games, 6243 moves, e=0.994, loss: nan, -, 38.7% elo% vs. random_bot, avg. reward: -0.051, 0.210 sec/game, 0.0 min. total, 334.3 MB
+festivity_emcee v1 10 games, 6912 moves, e=0.993, loss: nan, -, 37.1% elo% vs. random_bot, avg. reward: -0.053, 0.209 sec/game, 0.0 min. total, 337.5 MB
+festivity_emcee v1 11 games, 7531 moves, e=0.993, loss: nan, -, 35.5% elo% vs. random_bot, avg. reward: -0.043, 0.206 sec/game, 0.0 min. total, 339.4 MB
+festivity_emcee v1 12 games, 8205 moves, e=0.992, loss: nan, -, 34.0% elo% vs. random_bot, avg. reward: -0.041, 0.215 sec/game, 0.0 min. total, 341.7 MB
+festivity_emcee v1 13 games, 8880 moves, e=0.991, loss: nan, -, 32.6% elo% vs. random_bot, avg. reward: -0.038, 0.214 sec/game, 0.0 min. total, 344.4 MB
+festivity_emcee v1 14 games, 9610 moves, e=0.990, loss: nan, ., 33.3% elo% vs. random_bot, avg. reward: -0.046, 0.216 sec/game, 0.1 min. total, 347.7 MB
+festivity_emcee v1 15 games, 10298 moves, e=0.990, loss: 0.3, -, 32.0% elo% vs. random_bot, avg. reward: -0.044, 0.262 sec/game, 0.1 min. total, 373.6 MB
