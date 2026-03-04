@@ -1,0 +1,13 @@
+agony_exclude v0 0 games, 0 moves, e=1.000, loss: nan,  , 50.0% elo% vs. , avg. reward: nan, nan sec/game, 0.0 min. total, 302.2 MB
+agony_exclude v1 1 games, 619 moves, e=0.999, loss: nan, +, 52.3% elo% vs. random_bot, avg. reward: 3.763, 0.277 sec/game, 0.0 min. total, 312.6 MB
+agony_exclude v1 2 games, 1288 moves, e=0.999, loss: nan, +, 54.5% elo% vs. random_bot, avg. reward: 4.008, 0.281 sec/game, 0.0 min. total, 314.6 MB
+agony_exclude v1 3 games, 1999 moves, e=0.998, loss: nan, +, 56.6% elo% vs. random_bot, avg. reward: 4.022, 0.296 sec/game, 0.0 min. total, 315.8 MB
+agony_exclude v1 4 games, 2704 moves, e=0.997, loss: nan, +, 58.5% elo% vs. random_bot, avg. reward: 3.949, 0.297 sec/game, 0.0 min. total, 317.8 MB
+agony_exclude v1 5 games, 3290 moves, e=0.997, loss: nan, +, 60.4% elo% vs. random_bot, avg. reward: 4.018, 0.287 sec/game, 0.0 min. total, 319.9 MB
+agony_exclude v1 6 games, 3983 moves, e=0.996, loss: nan, +, 62.1% elo% vs. random_bot, avg. reward: 3.979, 0.289 sec/game, 0.0 min. total, 321.9 MB
+agony_exclude v1 7 games, 4591 moves, e=0.995, loss: nan, +, 63.7% elo% vs. random_bot, avg. reward: 3.917, 0.285 sec/game, 0.0 min. total, 323.3 MB
+agony_exclude v1 8 games, 5164 moves, e=0.995, loss: nan, +, 65.2% elo% vs. random_bot, avg. reward: 3.867, 0.282 sec/game, 0.0 min. total, 324.6 MB
+agony_exclude v1 9 games, 5819 moves, e=0.994, loss: nan, +, 66.7% elo% vs. random_bot, avg. reward: 3.862, 0.282 sec/game, 0.0 min. total, 326.1 MB
+agony_exclude v1 10 games, 6457 moves, e=0.994, loss: nan, +, 68.0% elo% vs. random_bot, avg. reward: 3.761, 0.281 sec/game, 0.0 min. total, 328.3 MB
+agony_exclude v1 11 games, 7094 moves, e=0.993, loss: nan, +, 69.3% elo% vs. random_bot, avg. reward: 3.730, 0.282 sec/game, 0.1 min. total, 330.5 MB
+agony_exclude v1 12 games, 7804 moves, e=0.992, loss: nan, +, 70.5% elo% vs. random_bot, avg. reward: 3.774, 0.285 sec/game, 0.1 min. total, 332.3 MB
