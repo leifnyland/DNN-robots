@@ -1,0 +1,9 @@
+spring_subsidy v0 0 games, 0 moves, e=1.000, loss: nan,  , 50.0% elo% vs. , avg. reward: nan, nan sec/game, 0.0 min. total, 306.3 MB
+spring_subsidy v1 1 games, 705 moves, e=0.999, loss: nan, +, 52.3% elo% vs. random_bot, avg. reward: -9.848, 0.225 sec/game, 0.0 min. total, 312.5 MB
+spring_subsidy v1 2 games, 1364 moves, e=0.999, loss: nan, +, 54.5% elo% vs. random_bot, avg. reward: -10.196, 0.209 sec/game, 0.0 min. total, 315.4 MB
+spring_subsidy v1 3 games, 2062 moves, e=0.998, loss: nan, +, 56.6% elo% vs. random_bot, avg. reward: -10.113, 0.216 sec/game, 0.0 min. total, 319.1 MB
+spring_subsidy v1 4 games, 2780 moves, e=0.997, loss: nan, +, 58.5% elo% vs. random_bot, avg. reward: -10.026, 0.220 sec/game, 0.0 min. total, 323.2 MB
+spring_subsidy v1 5 games, 3504 moves, e=0.997, loss: nan, +, 60.4% elo% vs. random_bot, avg. reward: -9.886, 0.227 sec/game, 0.0 min. total, 325.5 MB
+spring_subsidy v1 6 games, 4319 moves, e=0.996, loss: nan, +, 62.1% elo% vs. random_bot, avg. reward: -9.668, 0.231 sec/game, 0.0 min. total, 329.7 MB
+spring_subsidy v1 7 games, 5022 moves, e=0.995, loss: nan, +, 63.7% elo% vs. random_bot, avg. reward: -9.693, 0.230 sec/game, 0.0 min. total, 332.6 MB
+spring_subsidy v1 8 games, 5754 moves, e=0.994, loss: nan, +, 65.2% elo% vs. random_bot, avg. reward: -9.708, 0.230 sec/game, 0.0 min. total, 334.8 MB

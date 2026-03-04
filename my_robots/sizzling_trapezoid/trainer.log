@@ -1,0 +1,4 @@
+sizzling_trapezoid v0 0 games, 0 moves, e=1.000, loss: nan,  , 50.0% elo% vs. , avg. reward: nan, nan sec/game, 0.0 min. total, 302.2 MB
+sizzling_trapezoid v1 1 games, 819 moves, e=0.999, loss: nan, +, 52.3% elo% vs. random_bot, avg. reward: 5.446, 0.382 sec/game, 0.0 min. total, 312.7 MB
+sizzling_trapezoid v1 2 games, 1548 moves, e=0.998, loss: nan, +, 54.5% elo% vs. random_bot, avg. reward: 5.415, 0.360 sec/game, 0.0 min. total, 313.9 MB
+sizzling_trapezoid v1 3 games, 2164 moves, e=0.998, loss: nan, +, 56.6% elo% vs. random_bot, avg. reward: 5.093, 0.327 sec/game, 0.0 min. total, 315.5 MB

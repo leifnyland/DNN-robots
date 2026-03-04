@@ -1,0 +1,13 @@
+saffron_pusher v0 0 games, 0 moves, e=1.000, loss: nan,  , 50.0% elo% vs. , avg. reward: nan, nan sec/game, 0.0 min. total, 302.2 MB
+saffron_pusher v1 1 games, 773 moves, e=0.999, loss: nan, +, 52.3% elo% vs. random_bot, avg. reward: 1.218, 0.566 sec/game, 0.0 min. total, 312.4 MB
+saffron_pusher v1 2 games, 1496 moves, e=0.999, loss: nan, +, 54.5% elo% vs. random_bot, avg. reward: 1.080, 0.447 sec/game, 0.0 min. total, 312.8 MB
+saffron_pusher v1 3 games, 2208 moves, e=0.998, loss: nan, +, 56.6% elo% vs. random_bot, avg. reward: 0.952, 0.404 sec/game, 0.0 min. total, 315.1 MB
+saffron_pusher v1 4 games, 2826 moves, e=0.997, loss: nan, +, 58.5% elo% vs. random_bot, avg. reward: 0.761, 0.375 sec/game, 0.0 min. total, 317.6 MB
+saffron_pusher v1 5 games, 3519 moves, e=0.997, loss: nan, +, 60.4% elo% vs. random_bot, avg. reward: 0.698, 0.372 sec/game, 0.0 min. total, 319.6 MB
+saffron_pusher v1 6 games, 4251 moves, e=0.996, loss: nan, +, 62.1% elo% vs. random_bot, avg. reward: 0.824, 0.382 sec/game, 0.0 min. total, 321.3 MB
+saffron_pusher v1 7 games, 5025 moves, e=0.995, loss: nan, +, 63.7% elo% vs. random_bot, avg. reward: 0.840, 0.384 sec/game, 0.0 min. total, 323.4 MB
+saffron_pusher v1 8 games, 5745 moves, e=0.994, loss: nan, +, 65.2% elo% vs. random_bot, avg. reward: 0.788, 0.379 sec/game, 0.1 min. total, 325.0 MB
+saffron_pusher v1 9 games, 6476 moves, e=0.994, loss: nan, +, 66.7% elo% vs. random_bot, avg. reward: 0.847, 0.387 sec/game, 0.1 min. total, 326.7 MB
+saffron_pusher v1 10 games, 7311 moves, e=0.993, loss: nan, +, 68.0% elo% vs. random_bot, avg. reward: 0.967, 0.392 sec/game, 0.1 min. total, 328.8 MB
+saffron_pusher v1 11 games, 8011 moves, e=0.992, loss: nan, +, 69.3% elo% vs. random_bot, avg. reward: 0.983, 0.389 sec/game, 0.1 min. total, 331.3 MB
+saffron_pusher v1 12 games, 8735 moves, e=0.991, loss: nan, +, 70.5% elo% vs. random_bot, avg. reward: 0.919, 0.385 sec/game, 0.1 min. total, 333.0 MB
