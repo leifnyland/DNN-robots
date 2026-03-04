@@ -1,0 +1,19 @@
+robot,opponent,win,loss,draw,percent
+current best/mansion/model_30_1800_4949112.h5,zoo.kamikaze,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.might_win_sometimes,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.gir,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.sunguard,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.random_bot,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.rowlake,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.terrible_bot,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.guard_bot,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.random_no_suicide,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.supershibe,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.simple_bot,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.schmosby,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.goulinator,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.snoflake,20.0,0.0,0.0,100.0
+current best/mansion/model_30_1800_4949112.h5,zoo.btr,0.0,20.0,0.0,0.0
+current best/mansion/model_30_1800_4949112.h5,zoo.spferical,0.0,20.0,0.0,0.0
+current best/mansion/model_30_1800_4949112.h5,zoo.dulladob,0.0,20.0,0.0,0.0
+,,280.0,60.0,0.0,82.3529411764706
